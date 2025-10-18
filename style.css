@@ -128,3 +128,44 @@ ul {
     font-weight: 500;
 }
 
+.cta-section{
+    padding: 8% 10%;
+}
+
+.cta{
+    align-items: center;
+    background-color: #3883F6;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+    padding: 6% 12%;
+}
+
+.cta-text{
+    color: #E5E7EB;
+}
+
+.cta-text h1{
+    font-size: 24px;
+}
+
+.cta-text p{
+    font-size: 16px;
+}
+
+.cta-button{
+    background-color: #3883F6;
+    border: 2px solid #E5E7EB;
+    border-radius: 5px;
+    color: #E5E7EB;
+    height: 36px;
+    font-weight: 500;
+    width: 88px;
+}
+
+.footer{
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 3%;
+    text-align: center;
+}
